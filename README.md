@@ -48,25 +48,6 @@ Follow these steps to run the project on your local machine:
 4. Click the "Generate Map" button.
 5. The generated map will be displayed at the bottom of the page.
 
-## Contributing
-
-We welcome contributions! To contribute:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Create a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/prettymaps-generator](https://github.com/yourusername/prettymaps-generator)
 
 ## Acknowledgments
 
