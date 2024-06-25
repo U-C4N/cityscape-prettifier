@@ -2,7 +2,7 @@
 
 Prettymaps Generator is a web application that creates stylized maps of cities and locations using OpenStreetMap data. Built on the Python Flask framework, this application utilizes the Prettymaps library to produce visually appealing maps.
 
-![Prettymaps Generator Screenshot](screenshot.png)
+![Prettymaps Generator Screenshot](readme.jpg)
 
 ## Features
 
